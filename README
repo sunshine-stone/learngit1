@@ -1,2 +1,6 @@
 test to learn git
+<<<<<<< HEAD
 add in new_dev
+=======
+add in own destop
+>>>>>>> bd100f3342a1f6ec69532ca7f3054614f7e7aaf3
